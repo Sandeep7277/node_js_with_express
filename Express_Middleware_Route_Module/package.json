@@ -1,0 +1,18 @@
+{
+  "name": "express_middleware_route_module",
+  "version": "1.0.0",
+  "description": "Express js middleware creating mount Routes and use Routes Model",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "sandeep kumar",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongoose": "^8.0.0",
+    "morgan": "^1.10.0"
+  }
+}
