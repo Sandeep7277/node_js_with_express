@@ -1,0 +1,20 @@
+{
+  "name": "express_adv",
+  "version": "1.0.0",
+  "description": "Advance Topic of Express Js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "Sandeep Kuamr",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongoose": "^8.0.0",
+    "morgan": "^1.10.0",
+    "validator": "^13.11.0"
+  }
+}
