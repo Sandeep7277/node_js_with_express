@@ -24,3 +24,5 @@ Query took 63 milliseconds to fetch the documents.
 Query took 42 milliseconds to fetch the documents.
 Query took 31 milliseconds to fetch the documents.
 Query took 80 milliseconds to fetch the documents.
+Query took 37 milliseconds to fetch the documents.
+Query took 38 milliseconds to fetch the documents.
