@@ -1,0 +1,21 @@
+{
+  "name": "express_error_handling",
+  "version": "1.0.0",
+  "description": "Error Handling in Express js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js",
+    "startProd":"SET NODE_ENV=production& nodemon server.js"
+  },
+  "author": "sandeep kumar",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongoose": "^8.0.1",
+    "morgan": "^1.10.0",
+    "validator": "^13.11.0"
+  }
+}
